@@ -1,6 +1,6 @@
 const translations = {
   en: {
-    skip:"Skip to content", nav_focus:"Focus", nav_projects:"Projects", nav_mission:"Mission", nav_contact:"Contact",
+    skip:"Skip to content", language_label:"Language", nav_focus:"Focus", nav_projects:"Projects", nav_mission:"Mission", nav_contact:"Contact",
     hero_eyebrow:"Independent technology & research initiative",
     hero_title:"Building and studying systems at the intersection of computing, engineering, and science.",
     hero_copy:"Sooneoo is an independent initiative for long-horizon technical work: designing software, exploring new computational models, and turning research ideas into testable systems.",
@@ -25,7 +25,7 @@ const translations = {
     footer_text:"Independent technology & research initiative"
   },
   cs: {
-    skip:"Přeskočit na obsah", nav_focus:"Zaměření", nav_projects:"Projekty", nav_mission:"Mise", nav_contact:"Kontakt",
+    skip:"Přeskočit na obsah", language_label:"Jazyk", nav_focus:"Zaměření", nav_projects:"Projekty", nav_mission:"Mise", nav_contact:"Kontakt",
     hero_eyebrow:"Nezávislá technologická a výzkumná iniciativa",
     hero_title:"Tvoříme a zkoumáme systémy na průsečíku computingu, engineeringu a vědy.",
     hero_copy:"Sooneoo je nezávislá iniciativa pro dlouhodobou technickou práci: návrh softwaru, zkoumání nových výpočetních modelů a převádění výzkumných myšlenek do testovatelných systémů.",
